@@ -1,3 +1,8 @@
+---
+layout: default
+title: Nutzungsbedingungen
+---
+
 ## Nutzungsbedingungen (EULA)
 
 ### Lizenz
@@ -20,3 +25,4 @@
 - 14-tägiges Widerrufsrecht für digitale Inhalte; es kann erlöschen, wenn der Ausführung vor Fristende zugestimmt wird und der Verlust des Widerrufsrechts bestätigt ist.
 
 Stand: 16.12.2025
+
